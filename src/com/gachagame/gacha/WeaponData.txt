@@ -1,0 +1,18 @@
+Knife	1	130	Bladed
+Rapier	1	140	Bladed
+Revolver	1	150	Ranged
+Mermaid+Tears	1	160	Magical	Trigger
+Clarent	1	170	Bladed
+English+Longbow	1	180	Ranged
+Circe+Staff	2	150	Magical	Luna
+Vorpal+Sword	2	160	Magical	Metal
+Merlin's+Staff	2	170	Magical	Cyclone
+Five-cross+Sword	2	180	Bladed
+Bashosen	2	190	Ranged
+Golden+Cudgel	2	200	Golden
+Philosopher's+Stone	3	180	Magical	Heat
+Magic+Bullets	3	190	Ranged
+Fragarach	3	200	Bladed
+Honjo+Masamune	3	210	Bladed
+Excalibur	3	220	Bladed
+Scythe+of+Father+Time	3	230	Golden
